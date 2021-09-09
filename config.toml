@@ -1,4 +1,4 @@
-baseURL = "zen-leakey-f2f6d6.netlify.app"
+baseURL = "njcustomoutfitters.netlify.app"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
 themesDir = "./themes"
