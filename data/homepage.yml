@@ -1,0 +1,60 @@
+---
+banner:
+  title : "Hi! welcome to <br> NJCustomOutfitters <br>"
+about:
+  enable : true
+  content : "Your Work Is In Good Hands With A Platinum Cummins Dealer."
+  button:
+    enable : false
+experience:
+  enable : true
+  title : "Quality Is Our Primary Concern <br> For Your Satisfaction. <br>"
+  item: 
+    - logo : "images/experience/icon-3.png"
+      title : "24 Hour Emergency Support"
+    - logo : "images/experience/icon-2.png"
+      title : "Authorized Platinum Cummins Service Dealer"
+    - logo : "images/experience/icon-1.png"
+      title : "GPS & Backup Camera Installs"
+    - logo : "images/experience/icon-3.png"
+      title : "Electrical Certified"
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "Food Trucks"
+      icon : "ti-thumb-up"
+      content : "Complete build out from start to finish."
+      highlighted : false
+    - title : "Police, State, and Government Vehicles"
+      icon : "ti-signal"
+      content : "We provide full service contracts, and maintenance too all different types of government fleet vehicles, and generators. As well as complete build outs for specced government emergency, police, fire, all state vehicles"
+      highlighted : true
+    - title : "RVs"
+      icon : "ti-panel"
+      content : "Custom installs on RVs depending whatever job or task you're trying to do."
+      highlighted : false
+    - title : "Full Build Outs"
+      icon : "ti-check-box"
+      content : "Like the name hints. At NJCustomOutfitters we're able to work with you to make your idea a reality."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+
+# testimonial
+testimonial:
+  enable : false
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
